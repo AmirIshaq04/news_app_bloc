@@ -1,4 +1,4 @@
-class RemoteArticleEvent {
+abstract class RemoteArticleEvent {
   RemoteArticleEvent();
 }
 
